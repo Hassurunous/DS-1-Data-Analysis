@@ -1,0 +1,926 @@
+,Los Angeles,,1,6,4,2016
+,Los Angeles,,1,8,4,2016
+,Los Angeles,,1,8,4,2016
+,Los Angeles,,1,8,4,2016
+,Los Angeles,,1,8,5,2016
+,Los Angeles,,1,10,4,2016
+,Los Angeles,,1,10,3,2016
+,New York City,Games,1,6,5,2016
+,New York City,Games,1,6,3,2016
+,New York City,Apps,1,6,3,2016
+,New York City,Intro,1,8,3,2016
+,New York City,Intro,1,8,4,2016
+,New York City,Intro,1,8,4,2016
+,New York City,Intro,1,8,4,2016
+,New York City,Games,1,8,4,2016
+,New York City,Games,1,8,4,2016
+,New York City,Games,1,8,3,2016
+,New York City,Games,1,8,3,2016
+,New York City,Games,1,8,4,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,3,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,2,2016
+,New York City,Apps,1,8,3,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,4,2016
+,New York City,Apps,1,8,3,2016
+,New York City,Intro,1,10,3,2016
+,New York City,Intro,1,10,3,2016
+,New York City,Intro,1,10,4,2016
+,New York City,Intro,1,10,4,2016
+,New York City,Games,1,10,3,2016
+,New York City,Games,1,10,3,2016
+,New York City,Games,1,10,4,2016
+,New York City,Apps,1,10,3,2016
+,New York City,Apps,1,10,4,2016
+,New York City,Apps,1,10,3,2016
+,New York City,Apps,1,10,3,2016
+,New York City,Apps,1,10,4,2016
+,New York City,Apps,1,10,4,2016
+,New York City,Apps,1,10,3,2016
+,New York City,Apps,1,10,3,2016
+,New York City,Apps,1,10,4,2016
+,New York City,Apps,1,10,3,2016
+,San Francisco,Apps,1,6,2,2016
+,San Francisco,Apps,1,6,3,2016
+,San Francisco,Apps,1,6,4,2016
+,San Francisco,Apps,1,6,5,2016
+,San Francisco,Apps,1,8,2,2016
+,San Francisco,Apps,1,8,2,2016
+,San Francisco,Apps,1,8,2,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,3,2016
+,San Francisco,Apps,1,8,4,2016
+,San Francisco,Apps,1,8,4,2016
+,San Francisco,Apps,1,8,4,2016
+,San Francisco,Apps,1,8,4,2016
+,San Francisco,Apps,1,8,4,2016
+,San Francisco,Apps,1,8,5,2016
+,San Francisco,Apps,1,8,5,2016
+,San Francisco,Apps,1,8,2,2016
+,San Francisco,Apps,1,10,2,2016
+,San Francisco,Apps,1,10,2,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,4,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Apps,1,10,3,2016
+,San Francisco,Games,1,8,3,2016
+,San Francisco,Games,1,8,3,2016
+,San Francisco,Games,1,8,4,2016
+,San Francisco,Games,1,10,3,2016
+,San Francisco,Games,1,10,3,2016
+,San Francisco,Games,1,10,3,2016
+,San Francisco,Games,1,10,3,2016
+,San Francisco,Games,1,10,3,2016
+,San Francisco,Games,1,10,4,2016
+,San Francisco,Games,1,10,4,2016
+,San Francisco,Intro,1,6,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,3,2016
+,San Francisco,Intro,1,8,4,2016
+,San Francisco,Intro,1,8,4,2016
+,San Francisco,Intro,1,8,4,2016
+,San Francisco,Intro,1,10,2,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,Intro,1,10,4,2016
+,San Francisco,Intro,1,10,4,2016
+,San Francisco,Intro,1,10,5,2016
+,San Francisco,Intro,1,10,5,2016
+,San Francisco,Intro,1,10,3,2016
+,San Francisco,VR,1,6,3,2016
+,San Francisco,VR,1,10,3,2016
+,San Francisco,VR,1,10,3,2016
+,San Francisco,VR,1,10,3,2016
+,Singapore,,1,4,3,2016
+,Singapore,,1,4,3,2016
+,Singapore,,1,6,3,2016
+,Singapore,,1,8,4,2016
+,Singapore,,1,8,4,2016
+,Singapore,,1,8,4,2016
+,Singapore,,1,8,3,2016
+,Singapore,,1,8,3,2016
+,Singapore,,1,8,4,2016
+,Singapore,,1,8,3,2016
+,Singapore,,1,8,3,2016
+,Singapore,,1,10,5,2016
+,Sunnyvale,Games,1,4,4,2016
+,Sunnyvale,Apps,1,6,4,2016
+,Sunnyvale,Apps,1,6,3,2016
+,Sunnyvale,Apps,1,6,5,2016
+,Sunnyvale,Apps,1,6,3,2016
+,Sunnyvale,Games,1,6,3,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,4,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,5,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Apps,1,8,3,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Games,1,8,3,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Games,1,8,3,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Games,1,8,3,2016
+,Sunnyvale,Games,1,8,4,2016
+,Sunnyvale,Intro,1,8,4,2016
+,Sunnyvale,Intro,1,8,3,2016
+,Sunnyvale,Intro,1,8,4,2016
+,Sunnyvale,Intro,1,8,3,2016
+,Sunnyvale,Intro,1,8,4,2016
+,Sunnyvale,Intro,1,8,3,2016
+,Sunnyvale,Intro,1,8,3,2016
+,Sunnyvale,Intro,1,8,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,4,2016
+,Sunnyvale,Apps,1,10,4,2016
+,Sunnyvale,Apps,1,10,3,2016
+,Sunnyvale,Apps,1,10,4,2016
+,Sunnyvale,Apps,1,10,4,2016
+,Sunnyvale,Games,1,10,4,2016
+,Sunnyvale,Games,1,10,2,2016
+,Sunnyvale,Games,1,10,3,2016
+,Sunnyvale,Games,1,10,4,2016
+,Sunnyvale,Intro,1,10,3,2016
+,Sunnyvale,Intro,1,10,2,2016
+,Sunnyvale,Intro,1,10,3,2016
+,Sunnyvale,Intro,1,10,3,2016
+,Sunnyvale,Intro,1,10,3,2016
+,Sunnyvale,Intro,1,10,3,2016
+,Los Angeles,,2,8,2,2016
+,Los Angeles,,2,6,3,2016
+,Los Angeles,,2,8,4,2016
+,Los Angeles,,2,8,3,2016
+,Los Angeles,,2,8,3,2016
+,Los Angeles,,2,10,3,2016
+,Los Angeles,,2,10,3,2016
+,New York City,Apps,2,6,2,2016
+,New York City,Apps,2,6,4,2016
+,New York City,Games,2,6,5,2016
+,New York City,Games,2,6,3,2016
+,New York City,Apps,2,8,3,2016
+,New York City,Apps,2,8,4,2016
+,New York City,Apps,2,8,3,2016
+,New York City,Apps,2,8,3,2016
+,New York City,Apps,2,8,2,2016
+,New York City,Apps,2,8,4,2016
+,New York City,Apps,2,8,3,2016
+,New York City,Games,2,8,4,2016
+,New York City,Games,2,8,4,2016
+,New York City,Games,2,8,4,2016
+,New York City,Intro,2,8,3,2016
+,New York City,Intro,2,8,3,2016
+,New York City,Intro,2,8,4,2016
+,New York City,Intro,2,8,3,2016
+,New York City,Apps,2,10,3,2016
+,New York City,Apps,2,10,3,2016
+,New York City,Apps,2,10,3,2016
+,New York City,Apps,2,10,4,2016
+,New York City,Apps,2,10,3,2016
+,New York City,Apps,2,10,4,2016
+,New York City,Games,2,10,4,2016
+,New York City,Intro,2,10,3,2016
+,New York City,Intro,2,10,3,2016
+,New York City,Intro,2,10,3,2016
+,San Francisco,Apps,2,4,3,2016
+,San Francisco,Apps,2,6,2,2016
+,San Francisco,Apps,2,6,3,2016
+,San Francisco,Apps,2,6,3,2016
+,San Francisco,Apps,2,8,2,2016
+,San Francisco,Apps,2,8,2,2016
+,San Francisco,Apps,2,8,5,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,8,4,2016
+,San Francisco,Apps,2,8,4,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,8,5,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,8,2,2016
+,San Francisco,Apps,2,8,3,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,2,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,4,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,2,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Apps,2,10,4,2016
+,San Francisco,Apps,2,10,3,2016
+,San Francisco,Games,2,8,4,2016
+,San Francisco,Games,2,8,5,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Games,2,10,3,2016
+,San Francisco,Intro,2,6,3,2016
+,San Francisco,Intro,2,8,2,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,8,4,2016
+,San Francisco,Intro,2,8,4,2016
+,San Francisco,Intro,2,8,4,2016
+,San Francisco,Intro,2,8,4,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,8,4,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,8,3,2016
+,San Francisco,Intro,2,10,4,2016
+,San Francisco,Intro,2,10,3,2016
+,San Francisco,Intro,2,10,3,2016
+,San Francisco,Intro,2,10,3,2016
+,San Francisco,Intro,2,10,3,2016
+,San Francisco,VR,2,2,3,2016
+,San Francisco,VR,2,4,3,2016
+,San Francisco,VR,2,4,3,2016
+,San Francisco,VR,2,10,3,2016
+,San Francisco,VR,2,10,3,2016
+,San Francisco,VR,2,10,3,2016
+,San Francisco,VR,2,10,3,2016
+,Singapore,,2,8,3,2016
+,Singapore,,2,6,3,2016
+,Singapore,,2,6,5,2016
+,Singapore,,2,6,3,2016
+,Singapore,,2,8,4,2016
+,Singapore,,2,8,3,2016
+,Singapore,,2,6,3,2016
+,Singapore,,2,6,3,2016
+,Sunnyvale,Apps,2,6,4,2016
+,Sunnyvale,Apps,2,6,5,2016
+,Sunnyvale,Apps,2,6,3,2016
+,Sunnyvale,Apps,2,6,4,2016
+,Sunnyvale,Apps,2,6,3,2016
+,Sunnyvale,Apps,2,6,3,2016
+,Sunnyvale,Apps,2,6,3,2016
+,Sunnyvale,Apps,2,6,4,2016
+,Sunnyvale,Apps,2,6,3,2016
+,Sunnyvale,Games,2,6,3,2016
+,Sunnyvale,Games,2,6,5,2016
+,Sunnyvale,Games,2,6,3,2016
+,Sunnyvale,Games,2,6,3,2016
+,Sunnyvale,Intro,2,6,4,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,3,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Apps,2,8,4,2016
+,Sunnyvale,Games,2,8,4,2016
+,Sunnyvale,Games,2,8,2,2016
+,Sunnyvale,Games,2,8,3,2016
+,Sunnyvale,Games,2,8,2,2016
+,Sunnyvale,Games,2,8,3,2016
+,Sunnyvale,Intro,2,8,3,2016
+,Sunnyvale,Intro,2,8,3,2016
+,Sunnyvale,Intro,2,8,3,2016
+,Sunnyvale,Intro,2,8,4,2016
+,Sunnyvale,Intro,2,8,4,2016
+,Sunnyvale,Intro,2,8,3,2016
+,Sunnyvale,Intro,2,8,3,2016
+,Sunnyvale,Apps,2,10,3,2016
+,Sunnyvale,Apps,2,10,3,2016
+,Sunnyvale,Apps,2,10,4,2016
+,Sunnyvale,Apps,2,10,3,2016
+,Sunnyvale,Apps,2,10,4,2016
+,Sunnyvale,Apps,2,10,3,2016
+,Sunnyvale,Apps,2,10,3,2016
+,Sunnyvale,Games,2,10,4,2016
+,Sunnyvale,Games,2,10,2,2016
+,Sunnyvale,Games,2,10,3,2016
+,Sunnyvale,Games,2,10,4,2016
+,Sunnyvale,Intro,2,10,2,2016
+,Sunnyvale,Intro,2,10,5,2016
+,Sunnyvale,Intro,2,10,2,2016
+,Los Angeles,,3,8,2,2016
+,Los Angeles,,3,8,4,2016
+,Los Angeles,,3,8,3,2016
+,Los Angeles,,3,8,3,2016
+,Los Angeles,,3,8,3,2016
+,Los Angeles,,3,10,4,2016
+,New York City,Apps,3,8,3,2016
+,New York City,Apps,3,10,3,2016
+,New York City,Intro,3,8,3,2016
+,New York City,Apps,3,10,3,2016
+,New York City,Apps,3,8,2,2016
+,New York City,Games,3,8,4,2016
+,New York City,Intro,3,8,4,2016
+,New York City,Apps,3,10,3,2016
+,New York City,Games,3,8,4,2016
+,New York City,Intro,3,8,4,2016
+,New York City,Games,3,8,4,2016
+,New York City,Apps,3,8,4,2016
+,New York City,Apps,3,8,3,2016
+,New York City,Games,3,8,3,2016
+,New York City,Apps,3,10,4,2016
+,New York City,Apps,3,8,3,2016
+,New York City,Games,3,8,4,2016
+,New York City,Games,3,10,4,2016
+,New York City,Intro,3,8,4,2016
+,New York City,Apps,3,8,4,2016
+,New York City,Games,3,10,3,2016
+,New York City,Intro,3,6,4,2016
+,New York City,Apps,3,10,3,2016
+,New York City,Apps,3,10,3,2016
+,New York City,Intro,3,8,4,2016
+,New York City,Games,3,10,3,2016
+,New York City,Games,3,10,3,2016
+,New York City,Apps,3,8,3,2016
+,San Francisco,Apps,3,6,2,2016
+,San Francisco,Apps,3,10,3,2016
+,San Francisco,Apps,3,6,3,2016
+,San Francisco,Apps,3,2,3,2016
+,San Francisco,Apps,3,10,2,2016
+,San Francisco,Apps,3,10,5,2016
+,San Francisco,Apps,3,6,5,2016
+,San Francisco,Apps,3,10,3,2016
+,San Francisco,Apps,3,10,3,2016
+,San Francisco,Games,3,10,3,2016
+,San Francisco,Games,3,10,4,2016
+,San Francisco,Intro,3,10,3,2016
+,San Francisco,Intro,3,8,3,2016
+,San Francisco,Intro,3,8,3,2016
+,San Francisco,Intro,3,8,4,2016
+,San Francisco,Intro,3,10,3,2016
+,San Francisco,Intro,3,10,3,2016
+,San Francisco,VR,3,10,3,2016
+,San Francisco,VR,3,8,4,2016
+,San Francisco,VR,3,2,5,2016
+,San Francisco,VR,3,8,4,2016
+,San Francisco,Intro,3,6,4,2016
+,San Francisco,Intro,3,8,4,2016
+,Singapore,,3,8,3,2016
+,Singapore,,3,10,3,2016
+,Sunnyvale,Games,3,10,2,2016
+,Sunnyvale,Apps,3,10,3,2016
+,Sunnyvale,Games,3,8,3,2016
+,Sunnyvale,Apps,3,8,3,2016
+,Sunnyvale,Apps,3,8,4,2016
+,Sunnyvale,Apps,3,10,3,2016
+,Sunnyvale,Apps,3,8,4,2016
+,Sunnyvale,Apps,3,6,4,2016
+,Sunnyvale,Apps,3,8,4,2016
+,Sunnyvale,Apps,3,6,4,2016
+,Sunnyvale,Apps,3,6,2,2016
+,Sunnyvale,Apps,3,10,4,2016
+,Sunnyvale,Games,3,10,5,2016
+,Sunnyvale,Games,3,8,3,2016
+,Sunnyvale,Games,3,10,3,2016
+,Sunnyvale,Intro,3,10,3,2016
+,Sunnyvale,Apps,3,8,3,2016
+,Sunnyvale,Games,3,10,3,2016
+,Sunnyvale,Games,3,10,3,2016
+,Sunnyvale,Games,3,10,2,2016
+,Sunnyvale,Apps,3,6,3,2016
+,Sunnyvale,Games,3,6,3,2016
+,Sunnyvale,Apps,3,8,3,2016
+,Sunnyvale,Apps,3,8,2,2016
+,Sunnyvale,Games,3,8,5,2016
+,Sunnyvale,Intro,3,8,4,2016
+,Sunnyvale,Intro,3,8,4,2016
+,Sunnyvale,Intro,3,8,3,2016
+,Sunnyvale,Intro,3,8,3,2016
+,Sunnyvale,Intro,3,8,3,2016
+,Sunnyvale,Intro,3,8,3,2016
+,Sunnyvale,Intro,3,8,4,2016
+,Sunnyvale,Games,3,8,4,2016
+,Sunnyvale,Apps,3,10,3,2016
+,Sunnyvale,Games,3,10,3,2016
+,Sunnyvale,Intro,3,10,3,2016
+,Los Angeles,,4,10,3,2016
+,Los Angeles,,4,10,3,2016
+,Los Angeles,,4,10,3,2016
+,Los Angeles,,4,10,4,2016
+,Los Angeles,,4,6,3,2016
+,Los Angeles,,4,8,3,2016
+,Los Angeles,,4,8,3,2016
+,Los Angeles,,4,8,3,2016
+,New York City,Apps,4,10,3,2016
+,New York City,Apps,4,10,3,2016
+,New York City,Apps,4,8,3,2016
+,New York City,Apps,4,8,3,2016
+,New York City,Games,4,8,4,2016
+,New York City,Intro,4,8,4,2016
+,New York City,Apps,4,8,4,2016
+,New York City,Apps,4,10,3,2016
+,New York City,Apps,4,8,5,2016
+,New York City,Apps,4,10,3,2016
+,New York City,Apps,4,8,4,2016
+,New York City,Games,4,8,4,2016
+,New York City,Apps,4,10,3,2016
+,New York City,Games,4,8,3,2016
+,New York City,Apps,4,8,3,2016
+,New York City,Apps,4,8,3,2016
+,San Francisco,Apps,4,10,3,2016
+,San Francisco,Apps,4,8,3,2016
+,San Francisco,Apps,4,8,4,2016
+,San Francisco,Apps,4,6,4,2016
+,San Francisco,Apps,4,8,4,2016
+,San Francisco,Apps,4,6,4,2016
+,San Francisco,Apps,4,8,3,2016
+,San Francisco,Apps,4,10,3,2016
+,San Francisco,Apps,4,8,3,2016
+,San Francisco,Apps,4,8,3,2016
+,San Francisco,Apps,4,10,2,2016
+,San Francisco,Games,4,8,3,2016
+,San Francisco,Games,4,8,3,2016
+,San Francisco,Games,4,10,4,2016
+,San Francisco,Games,4,10,5,2016
+,San Francisco,Games,4,10,3,2016
+,San Francisco,Intro,4,10,4,2016
+,San Francisco,Intro,4,6,4,2016
+,San Francisco,Intro,4,8,4,2016
+,San Francisco,Intro,4,6,5,2016
+,San Francisco,Intro,4,8,4,2016
+,San Francisco,Intro,4,8,3,2016
+,San Francisco,Intro,4,6,3,2016
+,San Francisco,Intro,4,8,3,2016
+,San Francisco,Intro,4,10,3,2016
+,San Francisco,Intro,4,8,4,2016
+,San Francisco,Intro,4,10,3,2016
+,San Francisco,VR,4,10,3,2016
+,San Francisco,VR,4,8,3,2016
+,San Francisco,VR,4,6,4,2016
+,San Francisco,VR,4,6,4,2016
+,Singapore,,4,8,3,2016
+,Singapore,,4,8,4,2016
+,Singapore,,4,6,3,2016
+,Singapore,,4,8,3,2016
+,Singapore,,4,6,4,2016
+,Singapore,,4,8,3,2016
+,Singapore,,4,8,3,2016
+,Singapore,,4,6,4,2016
+,Singapore,,4,8,3,2016
+,Sunnyvale,Apps,4,4,1,2016
+,Sunnyvale,Apps,4,6,3,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,8,2,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,6,3,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,6,4,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,10,4,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,8,4,2016
+,Sunnyvale,Apps,4,10,1,2016
+,Sunnyvale,Apps,4,10,3,2016
+,Sunnyvale,Apps,4,8,3,2016
+,Sunnyvale,Games,4,10,2,2016
+,Sunnyvale,Games,4,10,3,2016
+,Sunnyvale,Games,4,8,3,2016
+,Sunnyvale,Games,4,8,4,2016
+,Sunnyvale,Games,4,8,4,2016
+,Sunnyvale,Games,4,10,5,2016
+,Sunnyvale,Games,4,10,3,2016
+,Sunnyvale,Games,4,6,3,2016
+,Sunnyvale,Intro,4,10,4,2016
+,Hong Kong,,5,8,3,2016
+,Hong Kong,,5,10,3,2016
+,Hong Kong,,5,10,3,2016
+,Los Angeles,Games,5,6,2,2016
+,Los Angeles,Intro,5,8,3,2016
+,Los Angeles,Intro,5,10,3,2016
+,Los Angeles,Games,5,8,3,2016
+,Los Angeles,Intro,5,8,3,2016
+,Los Angeles,Games,5,8,3,2016
+,Los Angeles,Intro,5,10,3,2016
+,Los Angeles,Games,5,8,4,2016
+,Los Angeles,Games,5,10,4,2016
+,Los Angeles,Intro,5,10,3,2016
+,Los Angeles,Games,5,8,3,2016
+,Los Angeles,Games,5,8,3,2016
+,New York City,Apps,5,10,5,2016
+,New York City,Apps,5,10,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Apps,5,10,3,2016
+,New York City,Apps,5,8,4,2016
+,New York City,Games,5,6,5,2016
+,New York City,Apps,5,8,4,2016
+,New York City,Apps,5,10,4,2016
+,New York City,Games,5,8,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Games,5,8,4,2016
+,New York City,Intro,5,8,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Games,5,10,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Games,5,10,3,2016
+,New York City,Apps,5,8,3,2016
+,New York City,Games,5,10,3,2016
+,New York City,Apps,5,10,3,2016
+,New York City,Games,5,8,3,2016
+,San Francisco,Apps,5,6,3,2016
+,San Francisco,Apps,5,8,3,2016
+,San Francisco,Apps,5,8,3,2016
+,San Francisco,Apps,5,8,4,2016
+,San Francisco,Apps,5,6,3,2016
+,San Francisco,Apps,5,10,3,2016
+,San Francisco,Apps,5,6,2,2016
+,San Francisco,Apps,5,10,3,2016
+,San Francisco,Apps,5,2,3,2016
+,San Francisco,Apps,5,8,3,2016
+,San Francisco,Apps,5,10,3,2016
+,San Francisco,Apps,5,8,4,2016
+,San Francisco,Apps,5,6,4,2016
+,San Francisco,Games,5,8,3,2016
+,San Francisco,Games,5,10,3,2016
+,San Francisco,Games,5,2,5,2016
+,San Francisco,Games,5,10,3,2016
+,San Francisco,Games,5,8,3,2016
+,San Francisco,Games,5,10,3,2016
+,San Francisco,Intro,5,10,2,2016
+,San Francisco,Intro,5,8,3,2016
+,San Francisco,Intro,5,6,5,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,4,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,2,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,8,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,8,4,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,Intro,5,10,3,2016
+,San Francisco,VR,5,10,4,2016
+,San Francisco,VR,5,10,4,2016
+,San Francisco,VR,5,8,4,2016
+,San Francisco,VR,5,10,3,2016
+,San Francisco,Intro,5,6,3,2016
+,San Francisco,Intro,5,6,3,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,8,4,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,8,4,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,6,3,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,8,3,2016
+,Singapore,,5,4,2,2016
+,Sunnyvale,Apps,5,8,3,2016
+,Sunnyvale,Apps,5,10,3,2016
+,Sunnyvale,Apps,5,6,3,2016
+,Sunnyvale,Apps,5,4,3,2016
+,Sunnyvale,Games,5,8,3,2016
+,Sunnyvale,Games,5,8,3,2016
+,Sunnyvale,Apps,5,10,3,2016
+,Sunnyvale,Apps,5,6,3,2016
+,Sunnyvale,Apps,5,10,3,2016
+,Sunnyvale,Apps,5,8,4,2016
+,Sunnyvale,Apps,5,8,3,2016
+,Sunnyvale,Apps,5,10,3,2016
+,Sunnyvale,Intro,5,8,4,2016
+,Sunnyvale,Apps,5,10,3,2016
+,Sunnyvale,Apps,5,8,5,2016
+,Sunnyvale,Apps,5,4,2,2016
+,Sunnyvale,Apps,5,8,3,2016
+,Sunnyvale,Apps,5,10,4,2016
+,Sunnyvale,Apps,5,6,4,2016
+,Sunnyvale,Apps,5,8,4,2016
+,Sunnyvale,Apps,5,8,3,2016
+,Sunnyvale,Apps,5,8,3,2016
+,Sunnyvale,Apps,5,6,4,2016
+,Sunnyvale,Games,5,10,3,2016
+,Sunnyvale,Games,5,10,3,2016
+,Sunnyvale,Games,5,8,5,2016
+,Sunnyvale,Games,5,8,3,2016
+,Sunnyvale,Intro,5,8,3,2016
+,Sunnyvale,Intro,5,8,3,2016
+,Sunnyvale,Intro,5,10,3,2016
+,Sunnyvale,Intro,5,8,3,2016
+,Sunnyvale,Intro,5,8,3,2016
+,Sunnyvale,Intro,5,10,3,2016
+,Sunnyvale,Intro,5,8,4,2016
+,Sunnyvale,Intro,5,8,2,2016
+,Sunnyvale,Intro,5,10,3,2016
+,Sunnyvale,Games,5,6,5,2016
+,Sunnyvale,Games,5,10,2,2016
+,Sunnyvale,Games,5,6,3,2016
+,Sunnyvale,Games,5,10,3,2016
+,Sunnyvale,Games,5,10,3,2016
+,Hong Kong,,6,10,3,2016
+,Hong Kong,,6,8,3,2016
+,Hong Kong,,6,10,3,2016
+,Los Angeles,Games,6,10,3,2016
+,Los Angeles,Intro,6,10,3,2016
+,Los Angeles,Games,6,6,1,2016
+,Los Angeles,Games,6,2,3,2016
+,Los Angeles,Intro,6,10,3,2016
+,Los Angeles,Intro,6,10,3,2016
+,Los Angeles,Games,6,10,3,2016
+,Los Angeles,Games,6,8,3,2016
+,Los Angeles,Intro,6,8,4,2016
+,Los Angeles,Games,6,8,4,2016
+,New York City,Apps,6,4,2,2016
+,New York City,Apps,6,8,3,2016
+,New York City,Apps,6,8,4,2016
+,New York City,Apps,6,10,3,2016
+,New York City,Games,6,10,3,2016
+,New York City,Intro,6,8,3,2016
+,New York City,Apps,6,6,3,2016
+,New York City,Apps,6,10,3,2016
+,New York City,Games,6,6,3,2016
+,New York City,Apps,6,8,3,2016
+,New York City,Intro,6,10,4,2016
+,New York City,Intro,6,8,3,2016
+,New York City,Apps,6,10,3,2016
+,New York City,Apps,6,4,1,2016
+,New York City,Intro,6,8,3,2016
+,New York City,Apps,6,8,3,2016
+,New York City,Intro,6,10,3,2016
+,New York City,Games,6,8,3,2016
+,New York City,Apps,6,10,5,2016
+,New York City,Games,6,8,3,2016
+,San Francisco,Apps,6,8,3,2016
+,San Francisco,Apps,6,6,4,2016
+,San Francisco,Apps,6,4,3,2016
+,San Francisco,Apps,6,8,3,2016
+,San Francisco,Apps,6,6,4,2016
+,San Francisco,Apps,6,10,3,2016
+,San Francisco,Apps,6,2,3,2016
+,San Francisco,Apps,6,6,3,2016
+,San Francisco,Apps,6,10,3,2016
+,San Francisco,Apps,6,8,3,2016
+,San Francisco,Apps,6,10,3,2016
+,San Francisco,Games,6,10,3,2016
+,San Francisco,Games,6,10,3,2016
+,San Francisco,Games,6,8,3,2016
+,San Francisco,Games,6,10,4,2016
+,San Francisco,Games,6,10,4,2016
+,San Francisco,Games,6,6,4,2016
+,San Francisco,Intro,6,10,3,2016
+,San Francisco,Intro,6,10,3,2016
+,San Francisco,Intro,6,6,4,2016
+,San Francisco,Intro,6,10,3,2016
+,San Francisco,Intro,6,10,3,2016
+,San Francisco,VR,6,8,3,2016
+,San Francisco,VR,6,8,4,2016
+,San Francisco,VR,6,8,3,2016
+,Singapore,,6,8,3,2016
+,Singapore,,6,10,5,2016
+,Singapore,,6,10,3,2016
+,Singapore,,6,8,3,2016
+,Singapore,,6,6,5,2016
+,Singapore,,6,10,3,2016
+,Sunnyvale,Apps,6,8,3,2016
+,Sunnyvale,Apps,6,10,3,2016
+,Sunnyvale,Apps,6,10,4,2016
+,Sunnyvale,Apps,6,8,3,2016
+,Sunnyvale,Apps,6,6,3,2016
+,Sunnyvale,Apps,6,6,3,2016
+,Sunnyvale,Apps,6,8,3,2016
+,Sunnyvale,Apps,6,10,3,2016
+,Sunnyvale,Apps,6,4,2,2016
+,Sunnyvale,Apps,6,8,3,2016
+,Sunnyvale,Apps,6,6,3,2016
+,Sunnyvale,Apps,6,10,3,2016
+,Sunnyvale,Apps,6,10,2,2016
+,Sunnyvale,Games,6,6,3,2016
+,Sunnyvale,Games,6,8,3,2016
+,Sunnyvale,Games,6,8,3,2016
+,Sunnyvale,Games,6,10,3,2016
+,Sunnyvale,Games,6,8,3,2016
+,Sunnyvale,Games,6,8,4,2016
+,Sunnyvale,Games,6,8,4,2016
+,Sunnyvale,Games,6,6,4,2016
+,Sunnyvale,Games,6,8,3,2016
+,Sunnyvale,Games,6,8,4,2016
+,Sunnyvale,Games,6,8,2,2016
+,Sunnyvale,Intro,6,10,3,2016
+,Sunnyvale,Intro,6,10,2,2016
+,Sunnyvale,Intro,6,10,3,2016
+,Sunnyvale,Intro,6,10,4,2016
+,Sunnyvale,Intro,6,6,4,2016
+,Sunnyvale,Intro,6,8,3,2016
+,Sunnyvale,Intro,6,8,3,2016
+,Sunnyvale,Intro,6,8,3,2016
+,Sunnyvale,Intro,6,8,3,2016
+,Sunnyvale,Intro,6,10,3,2016
+,Sunnyvale,Intro,6,8,2,2016
+,Taipei,,6,10,3,2016
+,Taipei,,6,10,4,2016
+,Taipei,,6,10,3,2016
+,Taipei,,6,10,3,2016
+,Taipei,,6,8,3,2016
+,Taipei,,6,8,3,2016
+,Taipei,,6,6,4,2016
+,Taipei,,6,6,3,2016
+,Taipei,,6,10,2,2016
+,Taipei,,6,8,4,2016
+,Taipei,,6,10,4,2016
+,Taipei,,6,10,3,2016
+,Tokyo,,6,6,4,2016
+,Tokyo,,6,8,3,2016
+,Tokyo,,6,8,1,2016
+,Tokyo,,6,8,2,2016
+,Tokyo,,6,10,4,2016
+,Tokyo,,6,6,3,2016
+,Tokyo,,6,10,5,2016
+,Tokyo,,6,8,2,2016
+,Tokyo,,6,6,4,2016
+,Tokyo,,6,10,3,2016
+,Tokyo,,6,10,3,2016
+,Tokyo,,6,8,4,2016
+,Tokyo,,6,8,3,2016
+,Los Angeles,Intro,7,6,2,2016
+,Los Angeles,Intro,7,10,3,2016
+,Los Angeles,Games,7,8,2,2016
+,Los Angeles,Intro,7,8,3,2016
+,Los Angeles,Games,7,8,3,2016
+,Los Angeles,Games,7,10,3,2016
+,Los Angeles,Intro,7,8,4,2016
+,Los Angeles,Games,7,10,3,2016
+,Los Angeles,Games,7,10,3,2016
+,New York City,Apps,7,6,3,2016
+,New York City,Apps,7,10,3,2016
+,New York City,Games,7,10,3,2016
+,New York City,Games,7,8,3,2016
+,New York City,Apps,7,8,3,2016
+,New York City,Intro,7,8,4,2016
+,New York City,Apps,7,10,3,2016
+,New York City,Games,7,10,4,2016
+,New York City,Games,7,8,3,2016
+,New York City,Apps,7,8,3,2016
+,New York City,Intro,7,10,3,2016
+,New York City,Games,7,6,3,2016
+,New York City,Games,7,10,4,2016
+,New York City,Apps,7,8,3,2016
+,New York City,Intro,7,8,3,2016
+,New York City,Apps,7,8,3,2016
+,New York City,Intro,7,10,4,2016
+,San Francisco,Apps,7,10,5,2016
+,San Francisco,Apps,7,6,3,2016
+,San Francisco,Apps,7,10,3,2016
+,San Francisco,Apps,7,10,4,2016
+,San Francisco,Apps,7,8,3,2016
+,San Francisco,Apps,7,10,3,2016
+,San Francisco,Apps,7,10,3,2016
+,San Francisco,Apps,7,8,4,2016
+,San Francisco,Games,7,10,3,2016
+,San Francisco,Games,7,10,4,2016
+,San Francisco,Intro,7,8,3,2016
+,San Francisco,Intro,7,8,4,2016
+,San Francisco,Intro,7,10,3,2016
+,San Francisco,Intro,7,10,3,2016
+,San Francisco,Intro,7,8,5,2016
+,San Francisco,VR,7,10,3,2016
+,San Francisco,VR,7,2,3,2016
+,San Francisco,VR,7,6,5,2016
+,San Francisco,VR,7,4,2,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,10,3,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,10,3,2016
+,Sunnyvale,Apps,7,8,4,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,10,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,6,1,2016
+,Sunnyvale,Apps,7,10,2,2016
+,Sunnyvale,Apps,7,10,3,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,8,3,2016
+,Sunnyvale,Apps,7,4,3,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Sunnyvale,Apps,7,6,4,2016
+,Sunnyvale,Apps,7,10,5,2016
+,Sunnyvale,Games,7,10,4,2016
+,Sunnyvale,Games,7,6,3,2016
+,Sunnyvale,Games,7,10,3,2016
+,Sunnyvale,Games,7,10,4,2016
+,Sunnyvale,Games,7,10,5,2016
+,Sunnyvale,Games,7,8,3,2016
+,Sunnyvale,Games,7,8,3,2016
+,Sunnyvale,Games,7,10,3,2016
+,Sunnyvale,Games,7,8,4,2016
+,Sunnyvale,Games,7,10,3,2016
+,Sunnyvale,Games,7,6,3,2016
+,Sunnyvale,Intro,7,8,4,2016
+,Sunnyvale,Intro,7,8,3,2016
+,Sunnyvale,Intro,7,10,3,2016
+,Sunnyvale,Intro,7,10,3,2016
+,Sunnyvale,Intro,7,10,3,2016
+,Sunnyvale,Intro,7,10,3,2016
+,Sunnyvale,Intro,7,10,4,2016
+,Sunnyvale,Intro,7,8,4,2016
+,Sunnyvale,Intro,7,8,3,2016
+,Sunnyvale,Intro,7,10,3,2016
+,Sunnyvale,Intro,7,8,2,2016
+,Sunnyvale,Apps,7,6,3,2016
+,Taipei,,7,6,3,2016
+,Taipei,,7,8,3,2016
+,Taipei,,7,8,3,2016
+,Taipei,,7,8,4,2016
+,Taipei,,7,10,4,2016
+,Taipei,,7,8,3,2016
+,Taipei,,7,8,3,2016
+,Taipei,,7,10,3,2016
+,Taipei,,7,10,3,2016
+,Taipei,,7,10,3,2016
+,Taipei,,7,6,3,2016
